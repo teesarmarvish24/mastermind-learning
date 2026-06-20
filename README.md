@@ -14,9 +14,11 @@ GitHub, and deploy on Vercel. This takes about 10–15 minutes total.
   stores the message in a `contact_messages` table
 - A `user_progress` table that tracks each user's completion per module —
   this is the persistent data model required by the brief
-- All 7 PERRIO modules from the PRD, each structured **practice-first**:
-  the exercise comes before the explanation, every time
-- Navy blue / white / gold branding matching your logo
+- 5 structured modules — a Foundation module on mindset shift, three pillar
+  modules (Encoding, Retrieval, Enablers), and a PERRIO capstone module that
+  ties them together — each structured **practice-first**: the exercise comes
+  before the explanation, every time
+- Navy blue / white branding with animated transitions, matching your logo
 
 ---
 
